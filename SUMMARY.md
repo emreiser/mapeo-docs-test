@@ -1,10 +1,10 @@
 # Table of contents
 
-* [Overview](README.md)
+* [Resumo](README.md)
 
-## Introduction <a id="planning"></a>
+## Introducción <a id="planning"></a>
 
-* [What is Mapeo](planning/what-is-mapeo.md)
+* [Qué es Mapeo?](planning/what-is-mapeo.md)
 * [Tools](planning/tools.md)
 * [Common uses](planning/common-uses.md)
 * [FAQs](planning/faqs.md)
