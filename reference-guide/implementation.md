@@ -1,4 +1,2 @@
-# Implementation
-
-Impl
+# Installation and setup
 
