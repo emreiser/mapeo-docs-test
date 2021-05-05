@@ -8,3 +8,5 @@ What is the best content to live here?
 * What you'll find here
 * How to navigate
 
+![](.gitbook/assets/tenor.gif)
+
