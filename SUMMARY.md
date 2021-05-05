@@ -11,23 +11,22 @@
 
 ## Getting started <a id="preparation"></a>
 
-* [Is Mapeo right for me?](preparation/tool-assessment.md)
+* [Tool assessment](preparation/tool-assessment.md)
+* [Common paths to using Mapeo](preparation/common-paths-to-using-mapeo.md)
 * [Installation](preparation/installation.md)
 * [Use](preparation/use.md)
 
-## Complete Reference Guide <a id="reference-guide"></a>
+## Reference guide
 
-* [Project planning](reference-guide/planning.md)
-* [Technical preparation](reference-guide/preparation/README.md)
-  * [Mapeo defaults](reference-guide/preparation/defaults.md)
+* [Planning](reference-guide/planning.md)
+* [Preparation](reference-guide/preparation/README.md)
+  * [Defaults](reference-guide/preparation/defaults.md)
   * [Custom configurations](reference-guide/preparation/custom-configurations.md)
   * [Custom offline maps](reference-guide/preparation/custom-offline-maps.md)
-  * [Choosing equipment](reference-guide/preparation/equipment.md)
-* [Installation and setup](reference-guide/implementation.md)
-* [Use](reference-guide/use.md)
+  * [Equipment](reference-guide/preparation/equipment.md)
+* [Implementation](reference-guide/implementation.md)
 * [Generating outputs](reference-guide/generating-outputs.md)
-* [Troubleshooting & support](reference-guide/assess-use-and-impact.md)
-* [Assessing impact](reference-guide/assessing-impact.md)
+* [Assess use & impact](reference-guide/assess-use-and-impact.md)
 
 ## For developers
 

@@ -1,8 +1,6 @@
-# Is Mapeo right for me?
+# Tool assessment
 
-* architecture
-* equipment selection
-* security concerns?
+Is Mapeo right for me?
 
 
 

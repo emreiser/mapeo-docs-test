@@ -1,2 +1,2 @@
-# Technical preparation
+# Preparation
 

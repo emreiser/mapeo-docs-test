@@ -1,2 +1,2 @@
-# Mapeo defaults
+# Defaults
 

@@ -1,2 +1,2 @@
-# Choosing equipment
+# Equipment
 
